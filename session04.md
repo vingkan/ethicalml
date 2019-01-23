@@ -34,16 +34,16 @@ While students work on the activity on Desmos, use [the snapshots feature](http:
 
 When students predict which transactions from the scatter plots they think are fraudulent, compare sketches to probe about what kinds of implicit or explicit rule students are declaring.
 
-...
+![Collection of student responses: drawings of which transactions they think are fraudulent.](assets/collection1.png)
 
 When students are asked if and how time should be incorporated into the fraud detection model, compare different responses and ask students which responses a utilitarian might agree with.
 
-...
+![Collection of student responses: opinions about engineering features based on time of purchase.](assets/collection2.png)
 
 When students are asked to quantify the cost of errors in fraud detection, discuss how they describe about false positives.
 
-...
+![Collection of student responses: opinions about the importance of false positives.](assets/collection3.png)
 
 When students are asked to quantify errors, discuss how they come up with their numbers.
 
-...
+![Collection of student responses: ideas for quantifying the cost of errors.](assets/collection1.png)
