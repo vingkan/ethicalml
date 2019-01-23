@@ -27,6 +27,19 @@ Prerequisite: Completed CS1 course in Python or other equivalent programming exp
 - Exercise your moral imagination. 
 - Reflect on your perspectives and blind spots.
 
+## Sessions
+
+- [Session 01: Defining Tasks](lessons/session01.md)
+- [Session 02: Data Preparation](lessons/session02.md)
+- [Session 03: Model Evaluation](lessons/session03.md)
+- [Session 04: Utility](lessons/session04.md)
+- [Session 05: Fairness I](lessons/session05.md)
+- [Session 06: Fairness II](lessons/session06.md)
+- [Session 07: Rights](lessons/session07.md)
+- [Session 08: Virtue](lessons/session08.md)
+- [Session 09: Deep Learning](lessons/session09.md)
+- [Session 10: Common Good](lessons/session10.md)
+
 ## Attributions
 
 Course developed and taught by [Vinesh Kannan](https://github.com/vingkan).
