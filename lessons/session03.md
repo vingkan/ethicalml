@@ -32,3 +32,5 @@ Ask students to try different models and parameters. Visit tables to support stu
 Remind students of the final deadline for submissions to the house prices prediction competition. If students are anxious about their programming skills, emphasize that programming is not the only important skill for machine learning: data preparation, feature engineering, and model selection will give their team an edge.
 
 Consider asking students to write a short reflection. After completing the competition, do you feel that estimating home values is a suitable task for machine learning? Is the F1-score, on its own, a good metric for this competition?
+
+**Next:** [Utility](session04.md)

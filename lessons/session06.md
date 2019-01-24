@@ -30,3 +30,5 @@ Share [the case study from the Princeton Dialogues on AI and Ethics: Hiring By M
 Prior to discussion question three in the case study, students learn of a complaint from an applicant who was automatically rejected, but otherwise qualified for an interview. The algorithm’s developers offer an explanation for the rejection. Ask students to reflect: Do you find the developers’ explanation of the rejection compelling?
 
 Share [the Jupyter notebook called PARiS Classifier](https://www.kaggle.com/vingkan/paris-classifier). This notebook includes a working version of the resume classifier with the training and pilot data loaded. Ask students to explore the classifier and determine whether or not the developers came to the right conclusion. Inform students that the PARiS classifier is a logistic regression model and ask them to use what they learned about logistic regression to investigate the developer’s conclusion.
+
+**Next:** [Rights](session07.md)

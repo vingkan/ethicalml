@@ -37,3 +37,5 @@ When students feel comfortable using the playground, challenge them to configure
 ## (20 mins) Activity
 
 Share the link to [Lawrence Francis’](https://github.com/ldfrancis) demo of a style transfer model. Students can make a copy of [the Jupyter notebook on Google Colab](http://bit.ly/2H9gvIW), upload their own content and style images, and run the model in their browser to see the result. Students may not be able to run the Colab notebook if their browser blocks cookies for the page. Remind students to only upload images that they have permission to use and modify.
+
+**Next:** [Common Good](session10.md)

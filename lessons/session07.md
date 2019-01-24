@@ -34,3 +34,5 @@ Share [the case study from the Princeton Dialogues on AI and Ethics: Automated H
 The case study involves a debate over whether or not the multi-armed bandit approach is an acceptable way to test the effectiveness of various diabetes treatments. Ask students to use their new knowledge of multi-armed bandit algorithms to critique the scenario.
 
 This case study is an important part of the course because it shows that technology companies are not the only organizations that can make ethically dubious choices. Ask students to reflect: What rights should participants in a medical study have? What rights should a user of an app have? Are these different? How so?
+
+**Next:** [Virtue](session08.md)

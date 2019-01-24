@@ -36,3 +36,5 @@ Share [the dataset on Kaggle](https://www.kaggle.com/vingkan/strategeion-resume-
 Share [the Jupyter notebook called Strategeion Resumes Starter](https://www.kaggle.com/vingkan/strategeion-resumes-starter) that loads the dataset. Remind students how to train and evaluate models with Scikit Learn. Demonstrate a simple classifier and how to calculate each of the three fairness metrics covered in the session.
 
 Consider having a pair programming activity or homework assignment where students try to build and the select the best hiring model they can. Remind the class that they will find out which applicant in the test (hold out) data represents them, after the veil of ignorance is lifted at the start of the next session.
+
+**Next:** [Fairness II](session06.md)

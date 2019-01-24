@@ -56,3 +56,5 @@ Explain to students that for the next two sessions, they will work in teams to e
 [Share the link to the Kaggle InClass competition and dataset](https://www.kaggle.com/c/ethicalml-cahousing). This competition uses the famous California housing prices dataset, popularized by Aurélien Géron and retrieved from Cam Nugent's version on Kaggle. The data is split into training and test (hold out) data (without labels) and the task is classification instead of regression. A district is classified as “high-value” if its median home value is at or above $180,000. Contact Vinesh Kannan (v@hawk.iit.edu) for the solutions to this competition.
 
 Ask students to brainstorm questions about the task and data: What are some questions which, if you knew the answers, would help you build an effective machine learning solution? Collect brainstormed questions for use in the next session.
+
+**Next:** [Data Preparation](session02.md)

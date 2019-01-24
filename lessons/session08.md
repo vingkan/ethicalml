@@ -50,3 +50,5 @@ For a speaker working in industry, some questions that students might ask includ
   - Which industry uses machine learning the most?
   - How is machine learning related to the Internet of Things?
   - What education do you recommend if you want to use machine learning for medical purposes?
+
+**Next:** [Deep Learning](session09.md)

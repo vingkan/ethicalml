@@ -49,3 +49,5 @@ Share [the Jupyter notebook about data preparation](https://www.kaggle.com/vingk
 - Scale numerical features using Scikit Learn
 
 [Slides](https://docs.google.com/presentation/d/18YLnUL4r4q-bp9l8a9VynJb7gf0wXnyN8wnhBLyjTsg/edit#slide=id.g4c29fe321c_1_80) include code examples and include links to the documentation.
+
+**Next:** [Model Evaluation](session03.md)
