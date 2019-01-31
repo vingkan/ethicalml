@@ -2,13 +2,15 @@
 
 Materials for a ten-session class introducing high school students to machine learning and ethics.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTC2yXv6eTifz0GOqY-1_evNtzuk0b9Y8n7su0M31_tlENIqz1G3nHJ4qlNcfVQkl0JmGUJOopU-Ig7/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
 ## Description
 
 All algorithms have biases, all systems have limitations, and all technologies have risks. Machine learning techniques offer the potential to produce faster, cheaper, and more consistent results, but these approaches can easily be misused. In Ethical Machine Learning, students will identify appropriate machine learning tasks, prepare training data, evaluate model performance, and discuss the impact of machine learning on diverse stakeholders. Coding activities in this class focus on analyzing and modifying programs, not writing lots of code.
 
 Prerequisite: Completed CS1 course in Python or other equivalent programming experience.
+
+## Course Slides
+
+[![View Course Slides](assets/cover_slide.png)](https://docs.google.com/presentation/d/e/2PACX-1vTC2yXv6eTifz0GOqY-1_evNtzuk0b9Y8n7su0M31_tlENIqz1G3nHJ4qlNcfVQkl0JmGUJOopU-Ig7/embed?start=false&loop=false&delayms=3000)
 
 ## Learning Outcomes
 
