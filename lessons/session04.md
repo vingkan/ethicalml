@@ -46,6 +46,6 @@ When students are asked to quantify the cost of errors in fraud detection, discu
 
 When students are asked to quantify errors, discuss how they come up with their numbers.
 
-![Collection of student responses: ideas for quantifying the cost of errors.](../assets/collection1.png)
+![Collection of student responses: ideas for quantifying the cost of errors.](../assets/collection4.png)
 
 **Next:** [Fairness I](session05.md)
