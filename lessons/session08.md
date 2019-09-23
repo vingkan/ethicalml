@@ -7,7 +7,7 @@
 
 Explain virtue ethics as choosing what you ought to do based on your values and the kind of person you want to be.
 
-Lead students through [Dr. Andy Ko’s](http://faculty.washington.edu/ajko/) activity from the University of Washington: [Situating Software Organizations](http://faculty.washington.edu/ajko/info461/activities/situating-software-organizations.html). The activity is suitable for data science and machine learning organizations. Visit tables and ask students questions such as:
+Lead students through [Dr. Amy Ko’s](http://faculty.washington.edu/ajko/) activity from the University of Washington: [Situating Software Organizations](http://faculty.washington.edu/ajko/info461/activities/situating-software-organizations.html). The activity is suitable for data science and machine learning organizations. Visit tables and ask students questions such as:
 
 - What resources do you think are credible for finding information about this organization?
 - How does this organization get data for data science and machine learning operations?
